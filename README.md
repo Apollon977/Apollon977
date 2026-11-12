@@ -29,14 +29,22 @@ I enjoy understanding how systems work, finding their weak points, and improving
 
 ## Tech stack
 
-| Area         | Technologies                  |
-| :----------- | :---------------------------- |
-| Languages    | JavaScript, TypeScript        |
-| Backend      | Node.js, Express, WebSockets  |
-| Data         | PostgreSQL                    |
-| Frontend     | React, Sass                   |
-| Deployment   | Docker, VPS                   |
-| Design tools | Figma, Photoshop, Illustrator |
+| Area                      | Technologies & tools                                                                 |
+| :------------------------ | :----------------------------------------------------------------------------------- |
+| Languages                 | TypeScript, JavaScript, Java, Python, SQL, PHP                                       |
+| Backend                   | Node.js, NestJS, Express, Spring Boot, FastAPI, Uvicorn                              |
+| Frontend                  | React, Next.js, HTML5, CSS3, Sass, Tailwind CSS                                      |
+| APIs & real-time          | REST APIs, WebSockets, Socket.IO, third-party integrations                           |
+| Security                  | Spring Security, Passport.js, JWT, Argon2, Helmet, input validation, rate limiting   |
+| Databases & persistence   | PostgreSQL, Redis, Prisma, Spring Data JPA                                           |
+| Object storage            | S3-compatible storage, MinIO                                                         |
+| AI & ML                   | PyTorch, Hugging Face Transformers, ONNX Runtime, LLM API integrations               |
+| Data collection           | Beautiful Soup, lxml, curl-cffi, asynchronous Python                                 |
+| Bots & integrations       | Telegram Bot API, Telegraf, Telegram Mini Apps, payment integrations                 |
+| Infrastructure & delivery | Docker, Docker Compose, VPS deployment, Git, GitHub                                  |
+| Testing & code quality    | Vitest, pytest, Spring Boot Test, Spring Security Test, ESLint, Prettier, Ruff, mypy |
+| Build & package tools     | npm, Gradle, uv                                                                      |
+| Design                    | Figma, Photoshop, Illustrator                                                        |
 
 ## A little more
 
