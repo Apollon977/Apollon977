@@ -1,47 +1,57 @@
-## Привет, меня зовут Айбек 👋
-<hr></hr>
+<div align="center">
 
-### 👨‍💻Обо мне:<br/>
+# Hi, I'm Aybek 👋
 
-Я веб-разработчик. Мой путь начался в 2020 году, когда мне нужно было создать сайт по ремонту бытовой техники для своего отца. Во время разработки сайта я параллельно обучался, что подняло мой уровень в понимании SEO и постепенно дало ответ на вопрос "Чем я буду заниматься в своей жизни?". Когда я закончил сайт по ремонту бытовой техники, у меня появилась идея продавать реплику наушников Apple (тогда это было на хайпе). Я сверстал хороший сайт с отправкой заявки в Telegram и выложил его в сеть. Сайт работал, но не было трафика. Поэтому идею я забросил.
+### Security · Backend Engineering · Full-Stack Development
 
-Далее в игру вступил React, и через несколько пет-проектов и реальных заказов мне поступил заказ на создание магазина с базой данных и интеграцией платежных систем. Гонорар был значительным, и я не хотел его терять, поэтому пришлось в короткие сроки освоить Node.js и PostgreSQL с Вебсокетами. Заказ разместил на VPS и успешно завершил работу, теперь занимаюсь просто поддержанием сайта. На текущий момент я обладаю обширными знаниями и навыками как в области фронтенда, так и в бэкенде, что позволяет мне успешно реализовывать сложные проекты и эффективно поддерживать существующие веб-сайты.
+I build web applications, work on backend systems, and focus on making software secure, reliable, and maintainable.
 
-<hr></hr>
+[Telegram](https://t.me/Apollon977) · [GitHub](https://github.com/Apollon977) · [VK](https://vk.com/aybek.madrakhimov)
 
-### 💻 Технологии:<br/>
+</div>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+---
 
-<hr></hr>
+## About me
 
-### 🤝 Социальные сети:<br/>
+I'm **Aybek Madrakhimov**, a developer with a particular interest in **security and backend engineering**. I work across the stack, from interfaces and APIs to databases, integrations, and deployment.
 
-<a href="https://t.me/Apollon977" rel="nofollow"><img src="https://camo.githubusercontent.com/6badd5effe52bef2c64557fa8883104fd1fd80065c2feda39fd2b9ac4a858bae/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="40" height="40" alt="telegram group" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;"></a>
-<a href="https://vk.com/aybek.madrakhimov" rel="nofollow"><img src="https://camo.githubusercontent.com/00c90af3e47852007e89e41dc29ab2f432d03cfb239ab27caefa80d6367d2756/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3134352f3134353831332e706e67" width="40" height="40" alt="VK Badge" data-canonical-src="https://cdn-icons-png.flaticon.com/512/145/145813.png" style="max-width: 100%;">
-</a>
+My journey started in **2020**, when I built a website for my father's appliance repair business. That first project introduced me to web development and SEO. Since then, I've worked on personal projects and client applications, including e-commerce platforms with payment integrations, real-time features, and VPS deployments.
 
-<hr></hr>
+I enjoy understanding how systems work, finding their weak points, and improving the code behind them. My approach is practical: clear architecture, thoughtful security decisions, and software that's straightforward to operate and maintain.
 
-### 🛠 Инструменты:<br/>
+## What I focus on
 
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+- **Security** — secure application design, authentication, authorization, input validation, and understanding how vulnerabilities arise.
+- **Backend** — APIs, business logic, database design, third-party integrations, and real-time communication.
+- **Full-stack development** — connecting React interfaces to backend services and taking features from idea to deployment.
+- **Infrastructure** — Docker, VPS deployments, and keeping applications running beyond the initial release.
 
+## Tech stack
 
-<hr></hr>
+| Area         | Technologies                  |
+| :----------- | :---------------------------- |
+| Languages    | JavaScript, TypeScript        |
+| Backend      | Node.js, Express, WebSockets  |
+| Data         | PostgreSQL                    |
+| Frontend     | React, Sass                   |
+| Deployment   | Docker, VPS                   |
+| Design tools | Figma, Photoshop, Illustrator |
 
-### 💻 Codewars:<br/>
+## A little more
 
-![Codewars](https://github.r2v.ch/codewars?user=Apollon977&top_languages=true)
+I started by building things I needed. That curiosity still drives me: learning through real problems, exploring security, and getting better at building dependable systems.
 
+I also practice problem-solving on Codewars:
+
+[![Codewars profile](https://github.r2v.ch/codewars?user=Apollon977&top_languages=true)](https://www.codewars.com/users/Apollon977)
+
+---
+
+<div align="center">
+
+**Have a project in mind or want to talk tech?**
+
+[Let's connect on Telegram →](https://t.me/Apollon977)
+
+</div>
