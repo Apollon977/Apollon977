@@ -6,7 +6,7 @@
 
 I build web applications, work on backend systems, and focus on making software secure, reliable, and maintainable.
 
-[Telegram](https://t.me/Apollon977) · [GitHub](https://github.com/Apollon977) · [VK](https://vk.com/aybek.madrakhimov)
+[Telegram](https://t.me/Apollon977) · [GitHub](https://github.com/Apollon977)
 
 </div>
 
